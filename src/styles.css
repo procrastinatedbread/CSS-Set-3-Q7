@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+div {
+  border: 1px solid gray;
+  width: 350px;
+  box-shadow: 2px 1px 0px 0px gray;
+}
+h1 {
+  margin: 10px;
+  font-size: 23px;
+}
+h3 {
+  position: absolute;
+  left: 300px;
+  top: 360px;
+}
+h4 {
+  margin: 10px;
+  color: gray;
+}
+button {
+  width: 300px;
+  margin: 20px;
+  padding: 10px;
+  font-size: 17px;
+  color: white;
+  background-color: aqua;
+}
